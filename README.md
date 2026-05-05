@@ -8,7 +8,8 @@ Estudiante de ADSO en el SENA y Desarrollo web de la universiada Surcolombiana, 
 Tecnólogo en Análisis y Desarrollo de Software - ADSO  
 En formación 
 
-**USCO** 
+**USCO**
+
 Tecnología en Desarrollo de Software en fomación
 
 ## Habilidades
