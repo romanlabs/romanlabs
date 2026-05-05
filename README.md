@@ -1,16 +1,27 @@
-## Hi there 👋
+# Román Alberto Bolaños Cerquera
 
-<!--
-**romanlabs/romanlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Perfil
+Estudiante de ADSO en el SENA y Desarrollo web de la universiada Surcolombiana, con interés en el desarrollo de software, bases de datos y creación de soluciones digitales. Me caracterizo por ser responsable, comprometido y con disposición para aprender.
 
-Here are some ideas to get you started:
+## Formación
+**SENA**  
+Tecnólogo en Análisis y Desarrollo de Software - ADSO  
+En formación 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**USCO** 
+Tecnología en Desarrollo de Software en fomación
+
+## Habilidades
+- Desarrollo web con react/vite
+- Manejo de bases de datos
+- Git y GitHub básico
+- JavaScript, python, HTML/CSS 
+- Trabajo en equipo
+- Aprendizaje continuo
+
+## Intereses
+- Desarrollo web 
+- Mejora de proyectos tecnológicos
+
+## Objetivo
+Seguir fortaleciendo mis conocimientos en programación y desarrollo de software para aportar en proyectos reales y crecer profesionalmente.
