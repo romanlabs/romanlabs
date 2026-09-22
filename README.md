@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Román Bolaños - Estudiante de ADSO en el SENA y de Tecnología en Desarrollo de Software en la USCO" />
+  <img src="./assets/header.svg" width="100%" alt="Román Bolaños - Tecnólogo en Desarrollo de Software (USCO) y aprendiz de ADSO en el SENA" />
 </div>
 
 <p align="center">
@@ -11,12 +11,14 @@
 
 ## Sobre mí
 
-Estudiante del tecnólogo en **Análisis y Desarrollo de Software (ADSO)** en el SENA y de
-**Tecnología en Desarrollo de Software** en la Universidad Surcolombiana (USCO).
+**Tecnólogo en Desarrollo de Software** de la Universidad Surcolombiana (USCO) y aprendiz del
+tecnólogo en **Análisis y Desarrollo de Software (ADSO)** en el SENA.
 
 Me interesa el desarrollo de software, las bases de datos y la creación de soluciones digitales
-para problemas reales. Actualmente soy **Tech Lead** del equipo que construye **Bourgelat**,
-una plataforma SaaS multi-tenant para la gestión de clínicas veterinarias.
+para problemas reales. Actualmente soy **Tech Lead** de **[Bourgelat](https://bourgelat.co)**, una
+plataforma SaaS multi-tenant para clínicas veterinarias que construyo con un compañero de la USCO, y
+desarrollo **[Informe Listo](https://informe-listo.vercel.app)**, una herramienta con IA para
+contratistas de prestación de servicios en Colombia.
 
 Me caracterizo por ser responsable, comprometido y con disposición para aprender.
 
@@ -34,7 +36,8 @@ Me caracterizo por ser responsable, comprometido y con disposición para aprende
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [bourgelat](https://github.com/romanlabs/bourgelat) | Sistema SaaS de gestión veterinaria: clínicas, pacientes, citas, inventario y facturación | React, Vite, Node.js, Express, PostgreSQL, Docker |
+| [bourgelat](https://github.com/romanlabs/bourgelat) · [bourgelat.co](https://bourgelat.co) | SaaS multi-tenant de gestión veterinaria en producción: agenda, pacientes, historias clínicas, inventario, caja y facturación | React, Vite, Node.js, Express, PostgreSQL, Docker, Render, Cloudflare |
+| [Informe Listo](https://informe-listo.vercel.app) | Informe de actividades, cuenta de cobro y PILA para contratistas en Colombia: generador de informes con IA, consulta de contratos en SECOP II y calculadora de seguridad social | Next.js, TypeScript, Tailwind CSS, Supabase, Claude API |
 | [Bourgelat.com](https://github.com/StivenFerreira09/Bourgelat.com) | Proyecto formativo en equipo del SENA (ficha 3239137) con pipeline de integración continua | Node.js, Jest, ESLint, GitHub Actions |
 | [sistema-inventario-profesional](https://github.com/romanlabs/sistema-inventario-profesional) | Sistema de inventario con login, roles (admin y cajero) y base de datos SQLite | Python, SQLite |
 | [RomanBolanos-Git.github.io](https://github.com/romanlabs/RomanBolanos-Git.github.io) | Portafolio profesional | JavaScript, HTML, CSS |
@@ -47,8 +50,8 @@ Me caracterizo por ser responsable, comprometido y con disposición para aprende
 
 | Institución | Programa | Estado |
 |-------------|----------|--------|
-| SENA — Centro de la Industria, la Empresa y los Servicios (Neiva) | Tecnólogo en Análisis y Desarrollo de Software (ADSO) | En formación |
-| Universidad Surcolombiana (USCO) | Tecnología en Desarrollo de Software | En formación |
+| SENA — Centro de la Industria, la Empresa y los Servicios (Neiva) | Tecnólogo en Análisis y Desarrollo de Software (ADSO) | En formación (etapa lectiva) |
+| Universidad Surcolombiana (USCO) | Tecnólogo en Desarrollo de Software | Graduado (julio de 2026) |
 
 </details>
 
@@ -61,6 +64,7 @@ Me caracterizo por ser responsable, comprometido y con disposición para aprende
 - Seguridad: autenticación con JWT, contraseñas con bcrypt y control de acceso por roles
 - Protección de datos personales bajo la Ley 1581 de 2012
 - Pruebas automatizadas e integración continua
+- Integración de IA (Claude API) con salidas validadas y verificables en Informe Listo
 
 </details>
 
