@@ -15,10 +15,11 @@
 tecnólogo en **Análisis y Desarrollo de Software (ADSO)** en el SENA.
 
 Me interesa el desarrollo de software, las bases de datos y la creación de soluciones digitales
-para problemas reales. Actualmente soy **Tech Lead** de **[Bourgelat](https://bourgelat.co)**, una
-plataforma SaaS multi-tenant para clínicas veterinarias que construyo con un compañero de la USCO, y
+para problemas reales. Actualmente soy **cofundador** de **[Bourgelat](https://bourgelat.co)**, una
+plataforma SaaS multi-tenant para clínicas veterinarias que construyo con un compañero de la USCO;
 desarrollo **[Informe Listo](https://informe-listo.vercel.app)**, una herramienta con IA para
-contratistas de prestación de servicios en Colombia.
+contratistas de prestación de servicios en Colombia, y soy **Tech Lead** del equipo del proyecto
+formativo Bourgelat.com en el SENA.
 
 Me caracterizo por ser responsable, comprometido y con disposición para aprender.
 
@@ -38,7 +39,7 @@ Me caracterizo por ser responsable, comprometido y con disposición para aprende
 |----------|-------------|-------------|
 | [bourgelat](https://github.com/romanlabs/bourgelat) · [bourgelat.co](https://bourgelat.co) | SaaS multi-tenant de gestión veterinaria en producción: agenda, pacientes, historias clínicas, inventario, caja y facturación | React, Vite, Node.js, Express, PostgreSQL, Docker, Render, Cloudflare |
 | [Informe Listo](https://informe-listo.vercel.app) | Informe de actividades, cuenta de cobro y PILA para contratistas en Colombia: generador de informes con IA, consulta de contratos en SECOP II y calculadora de seguridad social | Next.js, TypeScript, Tailwind CSS, Supabase, Claude API |
-| [Bourgelat.com](https://github.com/StivenFerreira09/Bourgelat.com) | Proyecto formativo en equipo del SENA (ficha 3239137) con pipeline de integración continua | Node.js, Jest, ESLint, GitHub Actions |
+| [Bourgelat.com](https://github.com/StivenFerreira09/Bourgelat.com) | Proyecto formativo en equipo del SENA (ficha 3239137), donde soy Tech Lead; con pipeline de integración continua | Node.js, Jest, ESLint, GitHub Actions |
 | [sistema-inventario-profesional](https://github.com/romanlabs/sistema-inventario-profesional) | Sistema de inventario con login, roles (admin y cajero) y base de datos SQLite | Python, SQLite |
 | [RomanBolanos-Git.github.io](https://github.com/romanlabs/RomanBolanos-Git.github.io) | Portafolio profesional | JavaScript, HTML, CSS |
 
